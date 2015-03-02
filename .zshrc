@@ -53,3 +53,4 @@ fi
 alias -s txt=$EDITOR
 alias -s java=$EDITOR
 alias -g L='|less'
+alias -s jar='java -jar'
